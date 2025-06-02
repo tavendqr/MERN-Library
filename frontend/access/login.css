@@ -1,0 +1,28 @@
+
+body, html {
+    height: 100%;
+}
+
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+   
+ 
+}
+
+
+.login-form {
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 5px rgb(20,20,20);
+    border: none;
+    padding: 25px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
